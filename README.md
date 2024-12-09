@@ -31,7 +31,7 @@ Este projeto implementa um padrão produtor-consumidor com um filtro, utilizando
 * Finalmente, inicia todas as threads, permitindo que o produtor gere valores, o filtro calcule a média e o consumidor leia e exiba a média.
 
 # Atividade Prática:
-* Crie um Repositório no git hub para incluir os programas;
+* Crie um Repositório no github para incluir os programas;
 * Compile e Executes os programas com log de execução com data e hora de execução;
 * Realize o upload dos prints no repositório;
-* Envie o link do respório com resposta da atividade;
+* Envie o link do repositório do github como resposta da atividade;
