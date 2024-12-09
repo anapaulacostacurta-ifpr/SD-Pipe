@@ -1,5 +1,3 @@
-package PipeTest;
-
 import java.util.*;
 import java.io.*;
 

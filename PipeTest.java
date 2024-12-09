@@ -1,9 +1,3 @@
-/**
- * @version 1.20 1999-04-23
- * @author Cay Horstmann
- */
-package PipeTest;
-
 import java.util.*;
 import java.io.*;
 
